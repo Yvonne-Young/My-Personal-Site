@@ -46,10 +46,6 @@ hr {
   top: 400px;
 }
 
-.middle-container {
-  text-align: center;
-}
-
 .bottom-container {
   background-color: #66BFBF;
   height: 200px;
@@ -92,8 +88,10 @@ hr {
 }
 
 .copyright {
-  top: 100px;
+  color: #EAF6F6;
+  padding-top: 20px;
   position: relative;
+  top: 100px;
 }
 
 .footer-link {
@@ -103,6 +101,10 @@ hr {
   position: relative;
   text-decoration: none;
   top: 50px;
+}
+
+.middle-container {
+  text-align: center;
 }
 
 .mountain {
