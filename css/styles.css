@@ -2,6 +2,10 @@ a {
   color: #11999E;
 }
 
+a:hover {
+  color: #EAF6F6;
+}
+
 body {
   background-color: #e4f9f5;
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
