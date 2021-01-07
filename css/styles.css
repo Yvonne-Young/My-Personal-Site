@@ -95,7 +95,9 @@ hr {
 .footer-link {
   color: #11999e;
   font-size: 1.2em;
+  margin: 10px 20px;
   position: relative;
+  text-decoration: none;
   top: 50px;
 }
 
